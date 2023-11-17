@@ -17,9 +17,7 @@
 ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/af8e65c2-78dc-4cec-975e-9f11b681787e)
 
 5. Найден путь между двумя вершинами (3 перехода):
-![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/24571a6c-e827-400a-8a71-58ef67d8b3a4)
-
-![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/fba330be-79e0-4d59-bc14-caaf6f24c4cd)
+![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/bb3b2241-b9f0-4d64-8d07-12788ea69ffe)
 
 6. Разные размеры поля (радиус вышки - 3 поля вокруг вышки):
 ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/36df8944-e434-46f4-9ac5-6361c6a9a7e9)
