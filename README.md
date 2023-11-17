@@ -29,9 +29,12 @@
 7. Разные радиусы действия вышек:
   1) Радиус 2: 
    ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/6a0811e5-ef9f-4a03-8b49-431d5cb7987f)
+  
+  
   2) Радиус 1:
     ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/2e95f161-5448-4e62-ba59-ff9bb51c2bf4)
 
+ 
   3) Радиус 4:
      ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/757f70f7-66d0-4c58-a2aa-47a665ac4c06)
 
