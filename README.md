@@ -24,6 +24,16 @@
 6. Разные размеры поля (радиус вышки - 3 поля вокруг вышки):
 ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/36df8944-e434-46f4-9ac5-6361c6a9a7e9)
 
+![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/bf1ba9c6-d3aa-4a60-91d8-3a1bbb367565)
 
+![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/bff56b44-a19a-4334-9c91-1a4b26d8ffbf)
 
-7. Разные радиусы действия вышек: 
+7. Разные радиусы действия вышек:
+  1) Радиус 2: 
+   ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/6a0811e5-ef9f-4a03-8b49-431d5cb7987f)
+  2) Радиус 1:
+    ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/2e95f161-5448-4e62-ba59-ff9bb51c2bf4)
+
+  3) Радиус 4:
+     ![image](https://github.com/Alenka-A1enka/CityGrid/assets/63575498/757f70f7-66d0-4c58-a2aa-47a665ac4c06)
+
